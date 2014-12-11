@@ -2,4 +2,6 @@
 Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes.
-Create a new branch is quick & simple.
+--merge conflict:
+Create a new branch is quick & simple.(master)
+Create a new branch is quick and simple.(feature1)
