@@ -5,4 +5,4 @@ Git tracks changes.
 --merge conflict:
 Create a new branch is quick & simple.(master)
 Create a new branch is quick and simple.(feature1)
-branch dev
+branch dev log
